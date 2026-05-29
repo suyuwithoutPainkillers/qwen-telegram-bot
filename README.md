@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/telegram-demo.jpg" alt="Qwen Telegram Bot screenshot" width="360">
+</p>
+
 # Qwen Telegram Bot
 
 一个基于 Telegram Bot + 通义千问 DashScope OpenAI 兼容接口的聊天机器人。
